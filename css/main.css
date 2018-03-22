@@ -1,0 +1,19 @@
+html, body {
+	height: 100%;
+	width: 100%;
+}
+
+/*GLOBAL STYlES*/
+.no-padding {
+	padding: 0;
+}
+
+/*NAVBAR STYLE*/
+svg.svg-inline--fa.fa-bolt.fa-w-10 {
+	font-size: 1.3em;
+}
+
+ul.nav.d-flex.justify-content-between {
+	background-color: pink;
+	padding: 7px 10px 7px 10px;
+}
