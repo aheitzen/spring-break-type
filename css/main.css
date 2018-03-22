@@ -12,6 +12,7 @@ html, body {
 svg.svg-inline--fa.fa-bolt.fa-w-10 {
 	font-size: 1.3em;
 	margin-top: 5px;
+	margin-left: 10px;
 }
 
 ul.nav.d-flex.justify-content-between {
@@ -23,6 +24,7 @@ ul.nav.d-flex.justify-content-between {
 	font-family: 'Oswald', sans-serif;
 	text-transform: uppercase;
 	color: hotpink;
+	margin-right: 10px;
 }
 
 .nav-item, p#no-hover {
@@ -39,11 +41,11 @@ ul.nav.d-flex.justify-content-between {
 }
 
 a {
-	color: #E67BBC;
+	color: white;
 }
 
 a:hover {
-	color: white;
+	color: black;
 	text-decoration: none;
 }
 
@@ -55,14 +57,34 @@ a:hover {
 }
 
 .day-one-header {
-	font-size: 200px;
+	font-size: 710px;
 	color: #E67BBC;
+	font-family: 'Oswald', sans-serif;
+	margin: 0;
+	display: flex;
+  	align-items: center;
+  	justify-content: center;
+  	z-index: 0;
 }
 
 .day-two-header {
-	color: #E67BBC;
+	z-index: 1;
+	position: relative;
+	display: flex;
+  	align-items: center;
+  	justify-content: center;
+  	margin-top: -520px;
+  	color: white;
+  	font-family: 'Bangers', cursive;
+  	font-size: 120px;
 }
 
 .day-one-paragraph-text {
-	color: #E67BBC;
+	color: white;
+	z-index: 1;
+	position: relative;
+	text-align: center;
+	font-family: 'Oswald', sans-serif;
+	font-size: 1.5em;
+
 }
