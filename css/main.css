@@ -49,6 +49,13 @@ a:hover {
 	text-decoration: none;
 }
 
+.font-family {
+	font-family: 'Oswald', sans-serif;
+	text-align: center;
+
+
+}
+
 /*DAY ONE*/
 #day-one {
 	height: 100%;
@@ -87,4 +94,8 @@ a:hover {
 	font-family: 'Oswald', sans-serif;
 	font-size: 1.5em;
 
+}
+
+.bangers-span {
+	font-family: 'Bangers', cursive;
 }
