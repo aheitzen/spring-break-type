@@ -38,21 +38,31 @@ ul.nav.d-flex.justify-content-between {
 	cursor: auto;
 }
 
+a {
+	color: #E67BBC;
+}
+
+a:hover {
+	color: white;
+	text-decoration: none;
+}
+
 /*DAY ONE*/
 #day-one {
 	height: 100%;
 	width: 100%;
-	background-color: #E67BBC;
+	background-color: #EB2137;
 }
 
 .day-one-header {
 	font-size: 200px;
+	color: #E67BBC;
 }
 
 .day-two-header {
-
+	color: #E67BBC;
 }
 
 .day-one-paragraph-text {
-	
+	color: #E67BBC;
 }
