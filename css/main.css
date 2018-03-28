@@ -8,6 +8,43 @@ html, body {
 	padding: 0;
 }
 
+/*SIDE NAVBAR*/
+.sidebar {
+	position: absolute; 
+	right: 0;
+}
+
+.dot {
+	display: inline-block; 
+	width: 10px; 
+	height: 10px; 
+	background-color: rgba(255,255,255,.3); 
+	border-radius: 10px; 
+	z-index: 999; 
+	content: ''; color:transparent; 
+	font-size: 14px; 
+	line-height: 10px; 
+	vertical-align: middle; 
+	margin: 5px 0 5px 0; 
+	font-weight: 300;
+}
+
+.dot:hover {
+	background-color:rgba(255,255,255,.8); 
+	color:rgba(255,255,255,.8);
+}
+
+nav {width:100px; height:200px; padding:0 0px; position:fixed; top:50%; right:20px; transform: translate(0, -50%); z-index: 10000; text-align:right;}
+nav ul {list-style-type:none; margin:0; padding:0;}
+.name-active {color:rgba(255,255,255,.8); background-color:#FFD95F; text-align:right;}
+
+/* PAGE CONTENT */
+.content {width:100%; text-align:justify;}
+section {padding:0 0 20px 0;}
+section:last-child {padding:0 0 100vh 0;}
+.title {font-size:24px; color:rgba(255,255,255,.3); text-transform:uppercase; padding:0 0 0px 0;}
+
+
 /*NAVBAR STYLE*/
 svg.svg-inline--fa.fa-bolt.fa-w-10 {
 	font-size: 1.3em;
@@ -98,4 +135,11 @@ a:hover {
 
 .bangers-span {
 	font-family: 'Bangers', cursive;
+}
+
+/*DAY-TWO*/
+#day-two {
+	height: 100%;
+	width: 100%;
+	background-color: #EB2137;
 }
