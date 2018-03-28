@@ -8,6 +8,57 @@ html, body {
 	padding: 0;
 }
 
+/*ABOUT PAGE*/
+.about-header {
+	font-family: 'Fira Sans', sans-serif;
+	text-align: center;
+	font-size: 1.5em;
+	margin-top: 2.5em;
+}
+
+.title-header {
+	text-align: center;
+	margin-top: 2.5em;
+	font-family: 'Fira Sans', sans-serif;
+}
+
+.about-paragraph-text {
+	margin-right: 19em;
+	margin-left: 19em;
+	text-align: center;
+	letter-spacing: .5px;
+	margin-top: 2em;
+	font-family: 'Fira Sans', sans-serif;
+}
+
+#social-media {
+	text-align: center;
+	font-size: 2em;
+	color: #d9b3ff;
+	margin-top: 1em;
+}
+
+.social-links {
+	color: #d9b3ff;
+}
+
+.back-arrow {
+	display: inline;
+}
+
+.back-link {
+	color: black;
+}
+
+.social-links:hover {
+	color: grey;
+}
+
+svg.svg-inline--fa.fa-user-circle.fa-w-16 {
+	margin-left: 1em;
+	margin-right: 1em;
+}
+
 /*SIDE NAVBAR*/
 .sidebar {
 	position: absolute; 
@@ -141,5 +192,22 @@ a:hover {
 #day-two {
 	height: 100%;
 	width: 100%;
-	background-color: #EB2137;
+	background-color: #FDF035;
+}
+
+.day-three-header {
+	color: #FC0E1D;
+	font-family: 'Open Sans', sans-serif;
+
+}
+
+#str {
+	color: #0C24FB;
+	font-family: 'Passion One', cursive;
+	font-size: 400px;
+}
+
+#ange {
+	font-family: 'Passion One', cursive;
+	font-size: 300px;
 }
