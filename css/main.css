@@ -306,7 +306,7 @@ h2 {
     margin-left: auto;
     margin-right: auto;
     margin-bottom: 120px;
-    margin-top: 180px;
+    margin-top: 160px;
 }
 
 .day-three-atr {
@@ -354,13 +354,14 @@ h2 {
 
 #type-class-2 {
 	color: #130c4b;
+	font-size: 20px;
 }
 
 .margin-top-2 {
 	margin-left: auto;
     margin-right: auto;
     margin-bottom: 140px;
-    margin-top: 190px;
+    margin-top: 220px;
 }
 
 svg.svg-inline--fa.fa-quote-right.fa-w-16, svg.svg-inline--fa.fa-quote-left.fa-w-16 {
