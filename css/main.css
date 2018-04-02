@@ -13,13 +13,6 @@ html, body {
 #body {
 	background:linear-gradient(rgba(244, 242, 243, 0.4), rgba(244, 242, 243, 0.4)), url("../images/geometry.png");
 }
-/*.about-header {
-	font-family: 'Fira Sans', sans-serif;
-	text-align: center;
-	font-size: 1.5em;
-	margin-top: 2.5em;
-	color: #FC4A2A;
-}*/
 
 .title-header {
 	text-align: center;
@@ -408,6 +401,7 @@ svg.svg-inline--fa.fa-quote-right.fa-w-16, svg.svg-inline--fa.fa-quote-left.fa-w
 	font-size: 200px;
 	color: white;
 	text-shadow: -14px 7px 0 #ff1a75;
+	
 
 }
 
