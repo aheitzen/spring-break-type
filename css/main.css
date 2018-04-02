@@ -35,8 +35,8 @@ html, body {
 }
 
 .about-paragraph-text {
-	margin-right: 14em;
-	margin-left: 14em;
+/*	margin-right: 14em;
+	margin-left: 14em;*/
 	text-align: center;
 	letter-spacing: .5px;
 	margin-top: 2.5em;
@@ -409,4 +409,16 @@ svg.svg-inline--fa.fa-quote-right.fa-w-16, svg.svg-inline--fa.fa-quote-left.fa-w
 	color: blue;
 	text-align: center;
 }
+
+@media only screen
+  and (min-width: 320px)
+  and (max-width: 480px) {
+  	.col.fixed-top.bottom-link {
+  		margin-left: 30px;
+  		margin-top: 40px;
+  	}
+  	h1.title-header {
+  		margin-top: 3.5em;
+  	}
+  }
 
