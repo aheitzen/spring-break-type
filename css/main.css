@@ -433,5 +433,37 @@ svg.svg-inline--fa.fa-quote-right.fa-w-16, svg.svg-inline--fa.fa-quote-left.fa-w
   	h1.title-header {
   		margin-top: 3.5em;
   	}
+  	h1.day-five-header {
+  		font-size: 70px;
+  		text-shadow: -3px 2px 0 #ff1a75;
+  		margin-top: 330px;
+  	}
+  	h2.day-five-sub-header {
+  		font-size: 40px;
+  	}
+  	h2#type-class-3 {
+  		margin-top: 200px;
+  	}
   }
+
+@media only screen
+and (min-width : 481px)
+and (max-width : 767px) {
+	h1.day-five-header {
+		font-size: 80px;
+		text-shadow: -3px 2px 0 #ff1a75;
+	}
+	h2.day-five-sub-header {
+		font-size: 50px;
+	}
+}
+
+@media only screen
+and (min-width : 768px)
+and (max-width : 1366px) {
+h1.day-five-header {
+		font-size: 140px;
+	}
+}
+
 
