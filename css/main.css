@@ -371,6 +371,14 @@ h2 {
 	font-size: 20px;
 }
 
+#type-class-3 {
+	text-align: center;
+	color: #130c4b;
+	font-size: 20px;
+	color: #ff1a75;
+
+}
+
 .margin-top-2 {
 	margin-left: auto;
     margin-right: auto;
@@ -401,8 +409,8 @@ svg.svg-inline--fa.fa-quote-right.fa-w-16, svg.svg-inline--fa.fa-quote-left.fa-w
 	font-size: 200px;
 	color: white;
 	text-shadow: -14px 7px 0 #ff1a75;
-	
-
+	margin-top: 230px;
+	margin-bottom: 20px;
 }
 
 .day-five-sub-header {
@@ -412,6 +420,7 @@ svg.svg-inline--fa.fa-quote-right.fa-w-16, svg.svg-inline--fa.fa-quote-left.fa-w
 	font-size: 70px;
 	color: white;
 	text-shadow: -3px 2px 0 #ff1a75;
+	margin-bottom: 180px;
 }
 
 @media only screen
