@@ -9,50 +9,71 @@ html, body {
 }
 
 /*ABOUT PAGE*/
-.about-header {
+
+#body {
+	background:linear-gradient(rgba(244, 242, 243, 0.4), rgba(244, 242, 243, 0.4)), url("../images/geometry.png");
+}
+/*.about-header {
 	font-family: 'Fira Sans', sans-serif;
 	text-align: center;
 	font-size: 1.5em;
 	margin-top: 2.5em;
-}
+	color: #FC4A2A;
+}*/
 
 .title-header {
 	text-align: center;
-	margin-top: 2.5em;
-	font-family: 'Fira Sans', sans-serif;
+	margin-top: 4.7em;
+	font-family:'Oswald', sans-serif;
+	letter-spacing: 1px;
+
+}
+
+.bottom-link {
+	margin-top: 4em;
+	margin-left: 3em;
 }
 
 .about-paragraph-text {
-	margin-right: 19em;
-	margin-left: 19em;
+	margin-right: 14em;
+	margin-left: 14em;
 	text-align: center;
 	letter-spacing: .5px;
-	margin-top: 2em;
-	font-family: 'Fira Sans', sans-serif;
+	margin-top: 2.5em;
+	font-family:'Oswald', sans-serif;
+	color: #FC4A2A;
+	margin-bottom: 1.4em;
+	letter-spacing: 1px;
+	font-size: 20px;
 }
 
 #social-media {
 	text-align: center;
 	font-size: 2em;
-	color: #d9b3ff;
 	margin-top: 1em;
 }
 
 .social-links {
-	color: #d9b3ff;
+	color: black;
 }
 
 .back-arrow {
 	display: inline;
 	margin-top: 10em;
+	font-family:'Oswald', sans-serif;
+	letter-spacing: 1px;
 }
 
 .back-link {
 	color: black;
 }
 
+p.back-arrow:hover {
+	color: #FC4A2A;
+}
+
 .social-links:hover {
-	color: grey;
+	color: #FC4A2A;
 }
 
 svg.svg-inline--fa.fa-user-circle.fa-w-16 {
