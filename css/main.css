@@ -507,6 +507,61 @@ svg.svg-inline--fa.fa-quote-right.fa-w-16, svg.svg-inline--fa.fa-quote-left.fa-w
 	margin-top: 70px;
 }
 
+/*DAY 7*/
+
+#day-seven {
+	height: 100%;
+	width: 100%;
+	/*background: linear-gradient(rgba(255, 255, 0, 0.5), rgba(255, 255, 0, 0.5)), url("../images/symphony.png");*/
+	background-color: #ffff33;
+	
+	
+	
+}
+
+.header-day-seven {
+	font-family: 'Rye', cursive;
+	/*text-transform: uppercase;*/
+	text-align: center;
+	text-shadow: -2px 1px 0 #ff0066;
+}
+
+.jodie {
+	font-size: 1.1em;
+	margin-top: 100px;
+}
+
+.jodie-two {
+	font-size: 1.5em;
+	margin-top: 40px;
+}
+
+.kind-of {
+	font-size: 2.5em;
+	margin-top: 40px;
+}
+
+.behavior {
+	font-size: 4em;
+}
+
+.day-seven-sub-header {
+	font-family: 'Righteous', cursive;
+	margin-top: 20px;
+	font-size: 25px;
+}
+
+.day-seven-link {
+	color: #000;
+}
+
+#type-class-5 {
+	color: black;
+	font-size: 20px;
+	text-align: center;
+	margin-top: 80px;
+}
+
 @media only screen
   and (min-width: 320px)
   and (max-width: 480px) {
