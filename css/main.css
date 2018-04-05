@@ -16,7 +16,7 @@ html, body {
 
 .title-header {
 	text-align: center;
-	margin-top: 4.7em;
+	margin-top: 5em;
 	font-family:'Oswald', sans-serif;
 	letter-spacing: 1px;
 
@@ -427,6 +427,86 @@ svg.svg-inline--fa.fa-quote-right.fa-w-16, svg.svg-inline--fa.fa-quote-left.fa-w
 	margin-bottom: 180px;
 }
 
+#day-six {
+	height: 100%;
+	width: 100%; 
+	background: url("../images/darkness.png");
+	
+
+}
+
+.header-day-six {
+	color:  black;
+	font-size: 3em;
+	margin-top: 50px;
+	font-family: 'Abril Fatface', cursive;
+		-webkit-text-stroke: 1px white;
+}
+
+#hilarious {
+	font-family: 'Abril Fatface', cursive;
+	color:  black;
+	-webkit-text-stroke: 1px white;
+	font-size: 2em;
+	margin-top: 25px;
+	margin-left: 40px;
+	
+}
+
+#beautiful {
+	font-family: 'Abril Fatface', cursive;
+		color:  black;
+			-webkit-text-stroke: 1px white;
+	font-size: 2em;
+	margin-bottom: 30px;
+	margin-left: 200px;
+
+}
+
+#talented {
+	font-family: 'Abril Fatface', cursive;
+		color:  black;
+			-webkit-text-stroke: 1px white;
+	font-size: 2em;
+	margin-bottom: 30px;
+	margin-left: 350px;
+}
+
+#humble {
+	font-family: 'Abril Fatface', cursive;
+	color:  black;
+	font-size: 2em;
+	text-align: center;
+		-webkit-text-stroke: 1px white;
+
+}
+
+.day-six-sub-header {
+	font-family: 'Merriweather', serif;
+	font-weight: 200;
+	font-size: 20px;
+	margin-left: 450px;
+
+	
+}
+
+.day-six-link {
+	color: #F4EDED;
+
+
+}
+
+.day-six-link:hover {
+	color: white;
+}
+
+#type-class-4 {
+	color: #F4EDED;
+	font-size: 20px;
+	text-align: center;
+	margin-top: 70px;
+}
+
 @media only screen
   and (min-width: 320px)
   and (max-width: 480px) {
@@ -465,9 +545,10 @@ and (max-width : 767px) {
 @media only screen
 and (min-width : 768px)
 and (max-width : 1366px) {
-h1.day-five-header {
+	.day-five-header {
 		font-size: 140px;
 	}
+
 }
 
 
