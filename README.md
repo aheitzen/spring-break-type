@@ -20,8 +20,13 @@ This project was assigned as hw for SCCA's typography 1 course. The class was ta
 **Unsolved problems** 
 * Not responsive 
 
-![alt tag](images/6.png)
+**Screenshots**
 <img src="images/6.png" width="280" alt="Landing Screen">
+<img src="images/1.png" width="280" alt="Quote One">
+<img src="images/2.png" width="280" alt="Quote Two">
+<img src="images/3.png" width="280" alt="Quote Three">
+<img src="images/4.png" width="280" alt="Quote Four">
+<img src="images/5.png" width="280" alt="About Section">
 
 
 
