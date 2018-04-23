@@ -1,9 +1,9 @@
 # spring-break-type
 
-* This project was assigned as hw for SCCA's typography 1 course. The class was tasked with creating 7 typographic layouts while seamlessly exploring hierarchy, color, and orientation. Check out the live site here: [7 Days of Type](https://aheitzen.github.io/spring-break-type/#day-seven)
+This project was assigned as hw for SCCA's typography 1 course. The class was tasked with creating 7 typographic layouts while seamlessly exploring hierarchy, color, and orientation. Check out the live site here: [7 Days of Type.](https://aheitzen.github.io/spring-break-type/#day-seven)
 
 **Technologies used**
-* html5 
+* HTML5 
 * CSS3
 * Google Fonts 
 * Font Awesome
