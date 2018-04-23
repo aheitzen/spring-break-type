@@ -21,6 +21,7 @@ This project was assigned as hw for SCCA's typography 1 course. The class was ta
 * Not responsive 
 
 ![alt tag](images/6.png)
+<img src="images/6.png" width="280" alt="Landing Screen">
 
 
 
